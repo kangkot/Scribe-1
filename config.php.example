@@ -2,4 +2,4 @@
 if (!class_exists('Scribe'))
 	die('Unauthorized access');
 
-Scribe::$url = '/php/Scribe';
+Scribe::$url = ''; // no trailing slash
