@@ -1,0 +1,2 @@
+A header.php and footer.php should go in here, and the content will be
+output between the two. Both scripts have access to $title and $toc

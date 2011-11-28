@@ -1,0 +1,5 @@
+<?php
+if (!class_exists('Scribe'))
+	die('Unauthorized access');
+
+Scribe::$url = '/php/Scribe';
